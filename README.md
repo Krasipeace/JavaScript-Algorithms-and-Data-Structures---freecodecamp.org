@@ -2,7 +2,7 @@
 ![Lines of Code](https://img.shields.io/tokei/lines/github.com/Krasipeace/JavaScript-Algorithms-and-Data-Structures---freecodecamp.org)
 ![Last commit](https://img.shields.io/github/last-commit/Krasipeace/JavaScript-Algorithms-and-Data-Structures---freecodecamp.org)
 
-nbsp;
+
 
 While HTML and CSS control the content and styling of a page, JavaScript is used to make it interactive. In the JavaScript Algorithm and Data Structures Certification, you'll learn the fundamentals of JavaScript including variables, arrays, objects, loops, and functions.
 
@@ -10,7 +10,7 @@ Once you have the fundamentals down, you'll apply that knowledge by creating alg
 
 Along the way, you'll also learn two important programming styles or paradigms: Object Oriented Programming (OOP) and Functional Programming (FP).
 
-nbsp;
+
 
 #### Courses:
 [Basic JavaScript][1]<br />
