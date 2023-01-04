@@ -16,110 +16,110 @@ Declare String Variables<br />
 Understanding Uninitialized Variables<br />
 Understanding Case Sensitivity in Variables<br />
 Explore Differences Between the var and let Keywords<br />
-Declare a Read-Only Variable with the const Keyword
-Add Two Numbers with JavaScript
-Subtract One Number from Another with JavaScript
-Multiply Two Numbers with JavaScript
-Divide One Number by Another with JavaScript
-Increment a Number with JavaScript
-Decrement a Number with JavaScript
-Create Decimal Numbers with JavaScript
-Multiply Two Decimals with JavaScript
-Divide One Decimal by Another with JavaScript
-Finding a Remainder in JavaScript
-Compound Assignment With Augmented Addition
-Compound Assignment With Augmented Subtraction
-Compound Assignment With Augmented Multiplication
-Compound Assignment With Augmented Division
-Escaping Literal Quotes in Strings
-Quoting Strings with Single Quotes
-Escape Sequences in Strings
-Concatenating Strings with Plus Operator
-Concatenating Strings with the Plus Equals Operator
-Constructing Strings with Variables
-Appending Variables to Strings
-Find the Length of a String
-Use Bracket Notation to Find the First Character in a String
-Understand String Immutability
-Use Bracket Notation to Find the Nth Character in a String
-Use Bracket Notation to Find the Last Character in a String
-Use Bracket Notation to Find the Nth-to-Last Character in a String
-Word Blanks][1]
-Store Multiple Values in one Variable using JavaScript Arrays
-Nest one Array within Another Array
-Access Array Data with Indexes
-Modify Array Data With Indexes
-Access Multi-Dimensional Arrays With Indexes
-Manipulate Arrays With push()
-Manipulate Arrays With pop()
-Manipulate Arrays With shift()
-Manipulate Arrays With unshift()
-Shopping List
-Write Reusable JavaScript with Functions
-Passing Values to Functions with Arguments
-Return a Value from a Function with Return
-Global Scope and Functions
-Local Scope and Functions
-Global vs. Local Scope in Functions
-Understanding Undefined Value returned from a Function
-Assignment with a Returned Value
-Stand in Line
-Understanding Boolean Values
-Use Conditional Logic with If Statements
-Comparison with the Equality Operator
-Comparison with the Strict Equality Operator
-Practice comparing different values
-Comparison with the Inequality Operator
-Comparison with the Strict Inequality Operator
-Comparison with the Greater Than Operator
-Comparison with the Greater Than Or Equal To Operator
-Comparison with the Less Than Operator
-Comparison with the Less Than Or Equal To Operator
-Comparisons with the Logical And Operator
-Comparisons with the Logical Or Operator
-Introducing Else Statements
-Introducing Else If Statements
-Logical Order in If Else Statements
-Chaining If Else Statements
-Golf Code
-Selecting from Many Options with Switch Statements
-Adding a Default Option in Switch Statements
-Multiple Identical Options in Switch Statements
-Replacing If Else Chains with Switch
-Returning Boolean Values from Functions
-Return Early Pattern for Functions
-Counting Cards
-Build JavaScript Objects
-Accessing Object Properties with Dot Notation
-Accessing Object Properties with Bracket Notation
-Accessing Object Properties with Variables
-Updating Object Properties
-Add New Properties to a JavaScript Object
-Delete Properties from a JavaScript Object
-Using Objects for Lookups
-Testing Objects for Properties
-Manipulating Complex Objects
-Accessing Nested Objects
-Accessing Nested Arrays
-Record Collection
-Iterate with JavaScript While Loops
-Iterate with JavaScript For Loops
-Iterate Odd Numbers With a For Loop
-Count Backwards With a For Loop
-Iterate Through an Array with a For Loop
-Nesting For Loops
-Iterate with JavaScript Do...While Loops
-Replace Loops using Recursion
-Profile Lookup
-Generate Random Fractions with JavaScript
-Generate Random Whole Numbers with JavaScript
-Generate Random Whole Numbers within a Range
-Use the parseInt Function
-Use the parseInt Function with a Radix
-Use the Conditional (Ternary) Operator
-Use Multiple Conditional (Ternary) Operators
-Use Recursion to Create a Countdown
-Use Recursion to Create a Range of Numbers
+Declare a Read-Only Variable with the const Keyword<br />
+Add Two Numbers with JavaScript<br />
+Subtract One Number from Another with JavaScript<br />
+Multiply Two Numbers with JavaScript<br />
+Divide One Number by Another with JavaScript<br />
+Increment a Number with JavaScript<br />
+Decrement a Number with JavaScript<br />
+Create Decimal Numbers with JavaScript<br />
+Multiply Two Decimals with JavaScript<br />
+Divide One Decimal by Another with JavaScript<br />
+Finding a Remainder in JavaScript<br />
+Compound Assignment With Augmented Addition<br />
+Compound Assignment With Augmented Subtraction<br />
+Compound Assignment With Augmented Multiplication<br />
+Compound Assignment With Augmented Division<br />
+Escaping Literal Quotes in Strings<br />
+Quoting Strings with Single Quotes<br />
+Escape Sequences in Strings<br />
+Concatenating Strings with Plus Operator<br />
+Concatenating Strings with the Plus Equals Operator<br />
+Constructing Strings with Variables<br />
+Appending Variables to Strings<br />
+Find the Length of a String<br />
+Use Bracket Notation to Find the First Character in a String<br />
+Understand String Immutability<br />
+Use Bracket Notation to Find the Nth Character in a String<br />
+Use Bracket Notation to Find the Last Character in a String<br />
+Use Bracket Notation to Find the Nth-to-Last Character in a String<br />
+Word Blanks<br />][1]
+Store Multiple Values in one Variable using JavaScript Arrays<br />
+Nest one Array within Another Array<br />
+Access Array Data with Indexes<br />
+Modify Array Data With Indexes<br />
+Access Multi-Dimensional Arrays With Indexes<br />
+Manipulate Arrays With push()<br />
+Manipulate Arrays With pop()<br />
+Manipulate Arrays With shift()<br />
+Manipulate Arrays With unshift()<br />
+Shopping List<br />
+Write Reusable JavaScript with Functions<br />
+Passing Values to Functions with Arguments<br />
+Return a Value from a Function with Return<br />
+Global Scope and Functions<br />
+Local Scope and Functions<br />
+Global vs. Local Scope in Functions<br />
+Understanding Undefined Value returned from a Function<br />
+Assignment with a Returned Value<br />
+Stand in Line<br />
+Understanding Boolean Values<br />
+Use Conditional Logic with If Statements<br />
+Comparison with the Equality Operator<br />
+Comparison with the Strict Equality Operator<br />
+Practice comparing different values<br />
+Comparison with the Inequality Operator<br />
+Comparison with the Strict Inequality Operator<br />
+Comparison with the Greater Than Operator<br />
+Comparison with the Greater Than Or Equal To Operator<br />
+Comparison with the Less Than Operator<br />
+Comparison with the Less Than Or Equal To Operator<br />
+Comparisons with the Logical And Operator<br />
+Comparisons with the Logical Or Operator<br />
+Introducing Else Statements<br />
+Introducing Else If Statements<br />
+Logical Order in If Else Statements<br />
+Chaining If Else Statements<br />
+Golf Code<br />
+Selecting from Many Options with Switch Statements<br />
+Adding a Default Option in Switch Statements<br />
+Multiple Identical Options in Switch Statements<br />
+Replacing If Else Chains with Switch<br />
+Returning Boolean Values from Functions<br />
+Return Early Pattern for Functions<br />
+Counting Cards<br />
+Build JavaScript Objects<br />
+Accessing Object Properties with Dot Notation<br />
+Accessing Object Properties with Bracket Notation<br />
+Accessing Object Properties with Variables<br />
+Updating Object Properties<br />
+Add New Properties to a JavaScript Object<br />
+Delete Properties from a JavaScript Object<br />
+Using Objects for Lookups<br />
+Testing Objects for Properties<br />
+Manipulating Complex Objects<br />
+Accessing Nested Objects<br />
+Accessing Nested Arrays<br />
+Record Collection<br />
+Iterate with JavaScript While Loops<br />
+Iterate with JavaScript For Loops<br />
+Iterate Odd Numbers With a For Loop<br />
+Count Backwards With a For Loop<br />
+Iterate Through an Array with a For Loop<br />
+Nesting For Loops<br />
+Iterate with JavaScript Do...While Loops<br />
+Replace Loops using Recursion<br />
+Profile Lookup<br />
+Generate Random Fractions with JavaScript<br />
+Generate Random Whole Numbers with JavaScript<br />
+Generate Random Whole Numbers within a Range<br />
+Use the parseInt Function<br />
+Use the parseInt Function with a Radix<br />
+Use the Conditional (Ternary) Operator<br />
+Use Multiple Conditional (Ternary) Operators<br />
+Use Recursion to Create a Countdown<br />
+Use Recursion to Create a Range of Numbers<br />
 
 
 [1]: https://github.com/Krasipeace/JavaScript-Algorithms-and-Data-Structures---freecodecamp.org/blob/main/Basic%20JavaScript/Variables%20%5B1-38%5D.js
