@@ -7,15 +7,15 @@ In this course, you'll learn fundamental programming concepts in JavaScript. You
 nbsp;
 
 #### Exersices:
-[Comment Your JavaScript Code
-Declare JavaScript Variables
-Storing Values with the Assignment Operator
-Assigning the Value of One Variable to Another
-Initializing Variables with the Assignment Operator
-Declare String Variables
-Understanding Uninitialized Variables
-Understanding Case Sensitivity in Variables
-Explore Differences Between the var and let Keywords
+[Comment Your JavaScript Code<br />
+Declare JavaScript Variables<br />
+Storing Values with the Assignment Operator<br />
+Assigning the Value of One Variable to Another<br />
+Initializing Variables with the Assignment Operator<br />
+Declare String Variables<br />
+Understanding Uninitialized Variables<br />
+Understanding Case Sensitivity in Variables<br />
+Explore Differences Between the var and let Keywords<br />
 Declare a Read-Only Variable with the const Keyword
 Add Two Numbers with JavaScript
 Subtract One Number from Another with JavaScript
