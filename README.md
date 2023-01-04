@@ -1,5 +1,5 @@
-# [JavaScript Algorithms and Data Structures](https://softuni.bg/) 
-![Lines of Code](https://img.shields.io/tokei/lines/github/krasipeace/JavaScript-Algorithms-and-Data-Structures---freecodecamp.org)
+# [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) 
+![Lines of Code](https://img.shields.io/tokei/lines/github/Krasipeace/JavaScript-Algorithms-and-Data-Structures---freecodecamp.org)
 ![Last commit](https://img.shields.io/github/last-commit/Krasipeace/JavaScript-Algorithms-and-Data-Structures---freecodecamp.org)
 
 nbsp;
