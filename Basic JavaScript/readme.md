@@ -43,7 +43,7 @@ Use Bracket Notation to Find the Nth Character in a String<br />
 Use Bracket Notation to Find the Last Character in a String<br />
 Use Bracket Notation to Find the Nth-to-Last Character in a String<br />
 Word Blanks<br />][1]
-Store Multiple Values in one Variable using JavaScript Arrays<br />
+[Store Multiple Values in one Variable using JavaScript Arrays<br />
 Nest one Array within Another Array<br />
 Access Array Data with Indexes<br />
 Modify Array Data With Indexes<br />
@@ -52,8 +52,8 @@ Manipulate Arrays With push()<br />
 Manipulate Arrays With pop()<br />
 Manipulate Arrays With shift()<br />
 Manipulate Arrays With unshift()<br />
-Shopping List<br />
-Write Reusable JavaScript with Functions<br />
+Shopping List<br />][2]
+[Write Reusable JavaScript with Functions<br />
 Passing Values to Functions with Arguments<br />
 Return a Value from a Function with Return<br />
 Global Scope and Functions<br />
@@ -62,8 +62,8 @@ Global vs. Local Scope in Functions<br />
 Understanding Undefined Value returned from a Function<br />
 Assignment with a Returned Value<br />
 Stand in Line<br />
-Understanding Boolean Values<br />
-Use Conditional Logic with If Statements<br />
+Understanding Boolean Values<br />][3]
+[Use Conditional Logic with If Statements<br />
 Comparison with the Equality Operator<br />
 Comparison with the Strict Equality Operator<br />
 Practice comparing different values<br />
@@ -86,8 +86,8 @@ Multiple Identical Options in Switch Statements<br />
 Replacing If Else Chains with Switch<br />
 Returning Boolean Values from Functions<br />
 Return Early Pattern for Functions<br />
-Counting Cards<br />
-Build JavaScript Objects<br />
+Counting Cards<br />][4]
+[Build JavaScript Objects<br />
 Accessing Object Properties with Dot Notation<br />
 Accessing Object Properties with Bracket Notation<br />
 Accessing Object Properties with Variables<br />
@@ -99,8 +99,8 @@ Testing Objects for Properties<br />
 Manipulating Complex Objects<br />
 Accessing Nested Objects<br />
 Accessing Nested Arrays<br />
-Record Collection<br />
-Iterate with JavaScript While Loops<br />
+Record Collection<br />][5]
+[Iterate with JavaScript While Loops<br />
 Iterate with JavaScript For Loops<br />
 Iterate Odd Numbers With a For Loop<br />
 Count Backwards With a For Loop<br />
@@ -117,7 +117,12 @@ Use the parseInt Function with a Radix<br />
 Use the Conditional (Ternary) Operator<br />
 Use Multiple Conditional (Ternary) Operators<br />
 Use Recursion to Create a Countdown<br />
-Use Recursion to Create a Range of Numbers<br />
+Use Recursion to Create a Range of Numbers<br />][6]
 
 
 [1]: https://github.com/Krasipeace/JavaScript-Algorithms-and-Data-Structures---freecodecamp.org/blob/main/Basic%20JavaScript/Variables%20%5B1-38%5D.js
+[2]: https://github.com/Krasipeace/JavaScript-Algorithms-and-Data-Structures---freecodecamp.org/blob/main/Basic%20JavaScript/Arrays%20%5B39-48%5D.js
+[3]: https://github.com/Krasipeace/JavaScript-Algorithms-and-Data-Structures---freecodecamp.org/blob/main/Basic%20JavaScript/Functions%20%5B49-58%5D.js
+[4]: https://github.com/Krasipeace/JavaScript-Algorithms-and-Data-Structures---freecodecamp.org/blob/main/Basic%20JavaScript/Statements%20%5B59-82%5D.js
+[5]: https://github.com/Krasipeace/JavaScript-Algorithms-and-Data-Structures---freecodecamp.org/blob/main/Basic%20JavaScript/Objects%20%5B83-95%5D.js
+[6]: https://github.com/Krasipeace/JavaScript-Algorithms-and-Data-Structures---freecodecamp.org/blob/main/Basic%20JavaScript/Loops%20%5B96-113%5D.js
