@@ -17,7 +17,7 @@ Along the way, you'll also learn two important programming styles or paradigms: 
 [ES6][2]<br />
 [Regular Expressions][3]<br />
 [Debugging][4]<br />
-Basic Data Structures<br />
+[Basic Data Structures][5]<br />
 Basic Algorithm Scripting<br />
 Object Oriented Programming<br />
 Functional Programming<br />
@@ -28,3 +28,4 @@ JavaScript Algorithms and Data Structures Projects<br />
 [2]: https://github.com/Krasipeace/JavaScript-Algorithms-and-Data-Structures---freecodecamp.org/blob/main/ES6/readme.md
 [3]: https://github.com/Krasipeace/JavaScript-Algorithms-and-Data-Structures---freecodecamp.org/blob/main/Regular%20Expressions/readme.md
 [4]: https://github.com/Krasipeace/JavaScript-Algorithms-and-Data-Structures---freecodecamp.org/blob/main/Debugging/readme.md
+[5]: https://github.com/Krasipeace/JavaScript-Algorithms-and-Data-Structures---freecodecamp.org/blob/main/Basic%20Data%20Structures/readme.md
