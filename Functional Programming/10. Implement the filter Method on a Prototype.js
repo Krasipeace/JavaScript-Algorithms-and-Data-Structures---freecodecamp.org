@@ -6,5 +6,6 @@ Array.prototype.myFilter = function (callback) {
         array.push(this[i]);
       }
     }
+    
     return array;
   };
