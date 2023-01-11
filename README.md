@@ -19,7 +19,7 @@ Along the way, you'll also learn two important programming styles or paradigms: 
 [Debugging][4]<br />
 [Basic Data Structures][5]<br />
 [Basic Algorithm Scripting][6]<br />
-[Object Oriented Programming[7]<br />
+[Object Oriented Programming][7]<br />
 [Functional Programming][8]<br />
 [Intermediate Algorithm Scripting][9]<br />
 JavaScript Algorithms and Data Structures Projects<br />
