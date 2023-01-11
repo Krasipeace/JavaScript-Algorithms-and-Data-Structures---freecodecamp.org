@@ -18,10 +18,10 @@ Along the way, you'll also learn two important programming styles or paradigms: 
 [Regular Expressions][3]<br />
 [Debugging][4]<br />
 [Basic Data Structures][5]<br />
-Basic Algorithm Scripting<br />
-Object Oriented Programming<br />
-Functional Programming<br />
-Intermediate Algorithm Scripting<br />
+[Basic Algorithm Scripting][6]<br />
+[Object Oriented Programming[7]<br />
+[Functional Programming][8]<br />
+[Intermediate Algorithm Scripting][9]<br />
 JavaScript Algorithms and Data Structures Projects<br />
 
 [1]: https://github.com/Krasipeace/JavaScript-Algorithms-and-Data-Structures---freecodecamp.org/blob/main/Basic%20JavaScript/readme.md
@@ -29,3 +29,7 @@ JavaScript Algorithms and Data Structures Projects<br />
 [3]: https://github.com/Krasipeace/JavaScript-Algorithms-and-Data-Structures---freecodecamp.org/blob/main/Regular%20Expressions/readme.md
 [4]: https://github.com/Krasipeace/JavaScript-Algorithms-and-Data-Structures---freecodecamp.org/blob/main/Debugging/readme.md
 [5]: https://github.com/Krasipeace/JavaScript-Algorithms-and-Data-Structures---freecodecamp.org/blob/main/Basic%20Data%20Structures/readme.md
+[6]: https://github.com/Krasipeace/JavaScript-Algorithms-and-Data-Structures---freecodecamp.org/blob/main/Basic%20Algorithm%20Scripting/readme.md
+[7]: https://github.com/Krasipeace/JavaScript-Algorithms-and-Data-Structures---freecodecamp.org/blob/main/Object-Oriented%20Programming/readme.md
+[8]: https://github.com/Krasipeace/JavaScript-Algorithms-and-Data-Structures---freecodecamp.org/blob/main/Functional%20Programming/readme.md
+[9]: https://github.com/Krasipeace/JavaScript-Algorithms-and-Data-Structures---freecodecamp.org/blob/main/Intermediate%20Algorithm%20Scripting/readme.md
