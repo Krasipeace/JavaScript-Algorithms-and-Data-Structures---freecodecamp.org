@@ -17,10 +17,10 @@ submitButtonEvent.addEventListener("click", function() {
     var displayWord = document.getElementById("displayWord");
 
     if(palindrome(value)) { 
-    notification.innerHTML = "\"" + value.toString() + "\"" + ` ` + `is a Palindrome!`;    
+    notification.innerHTML = "\"" + value.toString() + "\"" + ` ` + `is a palindrome!`;    
     displayWord.innerHTML = `Forwards: ` + value.toLowerCase().replace(/[\W_]/g, '') + "<br>" + `Backwards: ` + value.toLowerCase().replace(/[\W_]/g, '').split('').reverse().join('');    
     } else { 
-    notification.innerHTML = "\"" + value.toString() + "\"" + ` ` + `is NOT a palindrome!`; 
+    notification.innerHTML = "\"" + value.toString() + "\"" + ` ` + `is not a palindrome!`; 
     displayWord.innerHTML = `Forwards: ` + value.toLowerCase().replace(/[\W_]/g, '') + "<br>" + `Backwards: ` + value.toLowerCase().replace(/[\W_]/g, '').split('').reverse().join('');  
     }
 }); 
