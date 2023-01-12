@@ -24,8 +24,3 @@ submitButtonEvent.addEventListener("click", function() {
     displayWord.innerHTML = `Forwards: ` + value.toLowerCase().replace(/[\W_]/g, '') + "<br>" + `Backwards: ` + value.toLowerCase().replace(/[\W_]/g, '').split('').reverse().join('');  
     }
 }); 
-
-
-// Tests
-//console.log(palindrome("eye")); // true
-//console.log(palindrome("KRAS")); // false  
