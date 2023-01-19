@@ -12,9 +12,9 @@ let submitButtonEvent = document.getElementById("submitButton");
 submitButtonEvent.addEventListener("click", function() { 
     'use strict'; 
 
-    var value = document.getElementById("inputString").value; 
-    var notification = document.getElementById("notification"); 
-    var displayWord = document.getElementById("displayWord");
+    let value = document.getElementById("inputString").value; 
+    let notification = document.getElementById("notification"); 
+    let displayWord = document.getElementById("displayWord");
 
     if(palindrome(value)) { 
     notification.innerHTML = "\"" + value.toString() + "\"" + ` ` + `is a palindrome!`;    
