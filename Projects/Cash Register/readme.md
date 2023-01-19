@@ -11,6 +11,8 @@ Return {status: "INSUFFICIENT_FUNDS", change: []} if cash-in-drawer is less than
 Return {status: "CLOSED", change: [...]} with cash-in-drawer as the value for the key change if it is equal to the change due.
 
 Otherwise, return {status: "OPEN", change: [...]}, with the change due in coins and bills, sorted in highest to lowest order, as the value of the change key.
+
+```javascript
 Currency Unit	Amount
 Penny	$0.01 (PENNY)
 Nickel	$0.05 (NICKEL)
@@ -21,9 +23,11 @@ Five Dollars	$5 (FIVE)
 Ten Dollars	$10 (TEN)
 Twenty Dollars	$20 (TWENTY)
 One-hundred Dollars	$100 (ONE HUNDRED)
+```
 
 See below for an example of a cash-in-drawer array:
 
+```javascript
 [
   ["PENNY", 1.01],
   ["NICKEL", 2.05],
@@ -35,3 +39,4 @@ See below for an example of a cash-in-drawer array:
   ["TWENTY", 60],
   ["ONE HUNDRED", 100]
 ]
+```
