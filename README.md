@@ -23,7 +23,7 @@ Along the way, you'll also learn two important programming styles or paradigms: 
 [Functional Programming][8]<br />
 [Intermediate Algorithm Scripting][9]<br />
 
-Projects
+| Projects | Name | Preview |
 | :--- | :--- | :--- |
 | 1    | [Palindrome Checker][10]      | [demo][15] |
 | 2    | [Roman Numeral Converter][11] | [demo][16] |
