@@ -19,4 +19,13 @@ function rot13(str) {
     return output;
 }
 
-console.log(rot13("SERR PBQR PNZC"));
+let submitButtonEvent = document.getElementById("submitButton");
+
+submitButtonEvent.addEventListener("click", function () {
+    'use strict';
+
+    let value = document.getElementById("inputString").value;
+    let notification = document.getElementById("notification");
+
+    notification.innerHTML = rot13(value.toString());
+});
