@@ -22,7 +22,14 @@ Along the way, you'll also learn two important programming styles or paradigms: 
 [Object Oriented Programming][7]<br />
 [Functional Programming][8]<br />
 [Intermediate Algorithm Scripting][9]<br />
-JavaScript Algorithms and Data Structures Projects<br />
+
+Projects<br />
+| ---: | :--- | :---: |
+| 1    | [Palindrome Checker][10]      | [demo][15] |
+| 2    | [Roman Numeral Converter][11] | [demo][16] |
+| 3    | [Caesars Cipher][12]          | [demo][17] |
+| 4    | [Telephone Number Validator][13] | [demo][18] |
+| 5    | [Cash Register][14]           | [demo][19] |
 
 [1]: https://github.com/Krasipeace/JavaScript-Algorithms-and-Data-Structures---freecodecamp.org/blob/main/Basic%20JavaScript/readme.md
 [2]: https://github.com/Krasipeace/JavaScript-Algorithms-and-Data-Structures---freecodecamp.org/blob/main/ES6/readme.md
@@ -33,3 +40,16 @@ JavaScript Algorithms and Data Structures Projects<br />
 [7]: https://github.com/Krasipeace/JavaScript-Algorithms-and-Data-Structures---freecodecamp.org/blob/main/Object-Oriented%20Programming/readme.md
 [8]: https://github.com/Krasipeace/JavaScript-Algorithms-and-Data-Structures---freecodecamp.org/blob/main/Functional%20Programming/readme.md
 [9]: https://github.com/Krasipeace/JavaScript-Algorithms-and-Data-Structures---freecodecamp.org/blob/main/Intermediate%20Algorithm%20Scripting/readme.md
+
+
+[10]: https://github.com/Krasipeace/JavaScript-Algorithms-and-Data-Structures---freecodecamp.org/tree/main/Projects/Palindrome%20Checker
+[11]: https://github.com/Krasipeace/JavaScript-Algorithms-and-Data-Structures---freecodecamp.org/tree/main/Projects/Roman%20Numeral%20Converter
+[12]: https://github.com/Krasipeace/JavaScript-Algorithms-and-Data-Structures---freecodecamp.org/tree/main/Projects/Caesars%20Cipher
+[13]: https://github.com/Krasipeace/JavaScript-Algorithms-and-Data-Structures---freecodecamp.org/tree/main/Projects/Telephone%20Number%20Validator
+[14]: https://github.com/Krasipeace/JavaScript-Algorithms-and-Data-Structures---freecodecamp.org/tree/main/Projects/Cash%20Register
+
+[15]: https://htmlpreview.github.io/?https://github.com/Krasipeace/JavaScript-Algorithms-and-Data-Structures---freecodecamp.org/blob/main/Projects/Palindrome%20Checker/index.html
+[16]: https://htmlpreview.github.io/?https://github.com/Krasipeace/JavaScript-Algorithms-and-Data-Structures---freecodecamp.org/blob/main/Projects/Roman%20Numeral%20Converter/index.html
+[17]: https://htmlpreview.github.io/?https://github.com/Krasipeace/JavaScript-Algorithms-and-Data-Structures---freecodecamp.org/blob/main/Projects/Caesars%20Cipher/index.html
+[18]:  https://htmlpreview.github.io/?https://github.com/Krasipeace/JavaScript-Algorithms-and-Data-Structures---freecodecamp.org/blob/main/Projects/Telephone%20Number%20Validator/index.html
+[19]: https://htmlpreview.github.io/?https://github.com/Krasipeace/JavaScript-Algorithms-and-Data-Structures---freecodecamp.org/blob/main/Projects/Cash%20Register/index.html
