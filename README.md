@@ -24,12 +24,12 @@ Along the way, you'll also learn two important programming styles or paradigms: 
 [Intermediate Algorithm Scripting][9]<br />
 
 | Projects | Name | Preview |
-| :--- | :--- | :--- |
+| ---: | :--- | :---: |
 | 1    | [Palindrome Checker][10]      | [demo][15] |
 | 2    | [Roman Numeral Converter][11] | [demo][16] |
 | 3    | [Caesars Cipher][12]          | [demo][17] |
 | 4    | [Telephone Number Validator][13] | [demo][18] |
-| 5    | [Cash Register][14]           | [demo][19] |
+| 5    | [Cash Register][14]           |  |
 
 [1]: https://github.com/Krasipeace/JavaScript-Algorithms-and-Data-Structures---freecodecamp.org/blob/main/Basic%20JavaScript/readme.md
 [2]: https://github.com/Krasipeace/JavaScript-Algorithms-and-Data-Structures---freecodecamp.org/blob/main/ES6/readme.md
@@ -52,4 +52,3 @@ Along the way, you'll also learn two important programming styles or paradigms: 
 [16]: https://htmlpreview.github.io/?https://github.com/Krasipeace/JavaScript-Algorithms-and-Data-Structures---freecodecamp.org/blob/main/Projects/Roman%20Numeral%20Converter/index.html
 [17]: https://htmlpreview.github.io/?https://github.com/Krasipeace/JavaScript-Algorithms-and-Data-Structures---freecodecamp.org/blob/main/Projects/Caesars%20Cipher/index.html
 [18]:  https://htmlpreview.github.io/?https://github.com/Krasipeace/JavaScript-Algorithms-and-Data-Structures---freecodecamp.org/blob/main/Projects/Telephone%20Number%20Validator/index.html
-[19]: https://htmlpreview.github.io/?https://github.com/Krasipeace/JavaScript-Algorithms-and-Data-Structures---freecodecamp.org/blob/main/Projects/Cash%20Register/index.html
