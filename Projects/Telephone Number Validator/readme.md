@@ -12,3 +12,7 @@ The user may fill out the form field any way they choose as long as it has the f
     1 555 555 5555
 
 For this challenge you will be presented with a string such as 800-692-7753 or 8oo-six427676;laskdjf. Your job is to validate or reject the US phone number based on any combination of the formats provided above. The area code is required. If the country code is provided, you must confirm that the country code is 1. Return true if the string is a valid US phone number; otherwise return false.
+
+[Click here to Run the Script][1]
+
+[1]: https://htmlpreview.github.io/?https://github.com/Krasipeace/JavaScript-Algorithms-and-Data-Structures---freecodecamp.org/blob/main/Projects/Telephone%20Number%20Validator/index.html

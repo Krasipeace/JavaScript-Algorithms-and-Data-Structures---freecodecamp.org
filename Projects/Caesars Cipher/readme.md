@@ -7,3 +7,7 @@ A common modern use is the ROT13 cipher, where the values of the letters are shi
 Write a function which takes a ROT13 encoded string as input and returns a decoded string.
 
 All letters will be uppercase. Do not transform any non-alphabetic character (i.e. spaces, punctuation), but do pass them on.
+
+[Click here to Run the Script][1]
+
+[1]: https://htmlpreview.github.io/?https://github.com/Krasipeace/JavaScript-Algorithms-and-Data-Structures---freecodecamp.org/blob/main/Projects/Caesars%20Cipher/index.html
