@@ -1,6 +1,6 @@
 # [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) 
 ![Lines of Code](https://img.shields.io/tokei/lines/github.com/Krasipeace/JavaScript-Algorithms-and-Data-Structures---freecodecamp.org)
-![Last commit](https://img.shields.io/github/last-commit/Krasipeace/JavaScript-Algorithms-and-Data-Structures---freecodecamp.org)
+![Last commit](https://img.shields.io/github/last-commit/Krasipeace/JavaScript-Algorithms-and-Data-Structures---freecodecamp.org) [![CodeFactor](https://www.codefactor.io/repository/github/krasipeace/javascript-algorithms-and-data-structures---freecodecamp.org/badge)](https://www.codefactor.io/repository/github/krasipeace/javascript-algorithms-and-data-structures---freecodecamp.org)
 
 
 
