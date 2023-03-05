@@ -19,7 +19,7 @@ let result3 = petRegex.test(petString);
 // 4 Ignore Case While Matching
 let myString2 = "freeCodeCamp";
 let fccRegex = /freeCodeCamp/i; // Change this line
-let result4 = fccRegex.test(myString);
+let result4 = fccRegex.test(myString2);
 
 
 // 5 Extract Matches

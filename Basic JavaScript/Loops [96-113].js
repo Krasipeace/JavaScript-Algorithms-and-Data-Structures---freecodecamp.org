@@ -9,7 +9,6 @@ while (i >= 0) {
   i--;
 }
 
-
 //97 Iterate with JavaScript For Loops
 // Setup
 const myArray2 = [];
@@ -18,7 +17,6 @@ const myArray2 = [];
 for (let i = 1; i <= 5; i++) {
   myArray2.push(i);
 }
-
 
 //98 Iterate Odd Numbers With a For Loop
 // Setup
@@ -29,7 +27,6 @@ for (let i = 1; i <= 9; i += 2) {
   myArray3.push(i);
 }
 
-
 //99 Count Backwards With a For Loop
 // Setup
 const myArray4 = [];
@@ -38,7 +35,6 @@ const myArray4 = [];
 for (let i = 9; i >= 1; i-= 2) {
   myArray4.push(i);
 }
-
 
 //100 Iterate Through an Array with a For Loop
 // Setup
@@ -51,7 +47,6 @@ for (let i = 0; i < myArr.length; i++) {
 }
 
 console.log(total);
-
 
 //101 Nesting For Loops
 function multiplyAll(arr) {
@@ -68,7 +63,6 @@ function multiplyAll(arr) {
   
   console.log(multiplyAll([[1, 2], [3, 4], [5, 6, 7]]));
 
-
 //102 Iterate with JavaScript Do...While Loops
 // Setup
 const myArray5 = [];
@@ -79,7 +73,6 @@ do {
   myArray5.push(i2);
   i2++;
 } while (i2 < 5);
-
 
 //103 Replace Loops using Recursion
 function sum(arr, n) {
@@ -92,7 +85,6 @@ function sum(arr, n) {
   
   // Only change code above this line
 }
-
 
 //104 Profile Lookup
 // Setup
@@ -143,7 +135,6 @@ function lookUpProfile(name, prop) {
 
 lookUpProfile("Akira", "likes");
 
-
 //105 Generate Random Fractions with JavaScript
 function randomFraction() {
 
@@ -154,7 +145,6 @@ function randomFraction() {
   // Only change code above this line
 }
 
-
 //106 Generate Random Whole Numbers with JavaScript
 function randomWholeNum() {
 
@@ -163,14 +153,12 @@ function randomWholeNum() {
   return Math.floor(Math.random() * 10);
 }
 
-
 //107 Generate Random Whole Numbers within a Range
 function randomRange(myMin, myMax) {
   // Only change code below this line
   return Math.floor(Math.random() * (myMax - myMin + 1) + myMin);
   // Only change code above this line
 }
-
 
 //108 Use the parseInt Function
 function convertToInteger(str) {
@@ -181,7 +169,6 @@ function convertToInteger(str) {
 
 convertToInteger("56");
 
-
 //109 Use the parseInt Function with a Radix
 function convertToInteger(str) {
   let bin = parseInt(str, 2);
@@ -191,7 +178,6 @@ function convertToInteger(str) {
 
 convertToInteger("10011");
 
-
 //110 Use the Conditional (Ternary) Operator
 function checkEqual(a, b) {
   return a == b ? "Equal" : "Not Equal";
@@ -199,14 +185,12 @@ function checkEqual(a, b) {
 
 checkEqual(1, 2);
 
-
 //111 Use Multiple Conditional (Ternary) Operators
 function checkSign(num) {
   return (num == 0) ? "zero" : (num > 0) ? "positive" : "negative";
 }
 
 checkSign(10);
-
 
 //112 Use Recursion to Create a Countdown
 // Only change code below this line
@@ -222,7 +206,6 @@ function countdown(n){
 
 console.log(countdown(5))
 // Only change code above this line
-
 
 //113 Use Recursion to Create a Range of Numbers
 function rangeOfNumbers(startNum, endNum) {
